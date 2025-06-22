@@ -1,0 +1,113 @@
+.heroimagecontainer{
+    width: 50%;
+    padding: 10px;
+    padding-top: 3%;
+}
+.heroimagecontainer img{
+    width: 80%;
+    height: auto;
+    padding-left: 20px;
+}
+.herotextcontainer{
+    width: 50%;
+    padding-left: 15%;
+}
+.herotextcontainer h1{
+    font-size: 3rem;
+    color: #121f35;
+    width: 70%;
+    font-weight: 700;
+    line-height: 100%;
+
+}
+.herotextcontainer p{
+    color: rgb(83, 83, 83);
+    width: 60%;
+    font-size: 20px;
+}
+.herobuttons{
+    gap: 50px
+}
+.herotextcontainer button{
+    background-color: #112234;
+    color: white;
+    padding: 15px 15px;
+    border: 2px solid white;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 600;
+
+}
+.tiny1{
+    width: 10%;
+}
+.tiny{
+    width: 12%;
+}
+.herotextcontainer button:hover{
+    background-color: black;
+    color: white;
+    padding: 15px 15px;
+    border: 2px solid grey;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 1%;
+}
+
+.save{
+    background-color: #0786f5;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: 700;
+    color:white;
+    width: 50%;
+    border-radius: 50px;
+}
+
+
+.flowerbook{
+    background-color:#0089fb;
+    display: flex;
+    align-items: center;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    width: 65%;
+    padding: 5px;
+    color: white;
+    font-weight: bold;
+}
+.flowerbook svg{
+    background-color:#0089fb;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    
+}
+
+.heroimagecontainer .bigimg {
+    display: block;
+    width: 80%;
+    height: auto;
+  }
+  
+  
+  .heroimagecontainer .small-image {
+    position: absolute;
+    width: 10%; 
+    height: auto;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 2;
+    border-radius: 5px;
+  }
+  
+  .left1 { left: 70px; top: 10%; }
+  .left2 { left: 70px; top: 10%; }
+  .left3 { left: 100px; top: 10%; }
+  
+  
+  .right1 { right: 60px; top: 60%; }
+  .right2 { right: 60px; top: 60%; }
+  .right3 { right: 60px; top: 60%; }
+
+  

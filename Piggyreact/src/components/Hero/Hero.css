@@ -1,0 +1,8 @@
+.herocontainer{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    background-color: #f2f8f8;
+
+}
+

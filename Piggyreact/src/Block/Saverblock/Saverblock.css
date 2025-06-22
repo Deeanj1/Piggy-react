@@ -1,0 +1,31 @@
+.meet1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-top: 5%;
+}
+
+.meet1 h1 {
+  margin-left: 30%;
+  font-size: 48px;
+  color: rgb(18, 34, 49);
+}
+
+.meet1 p {
+  font-size: 24px;
+  color: rgb(61, 79, 96);
+  line-height: 33px;
+  width: 50%;
+  text-align: center;
+  margin-left: 25%;
+  margin-top: 1%;
+  margin-bottom: 5%;
+  
+}
+
+.meet1 iframe {
+  margin-left: 25%;
+  border: 11px solid white;
+  border-radius: 25px;
+}
+

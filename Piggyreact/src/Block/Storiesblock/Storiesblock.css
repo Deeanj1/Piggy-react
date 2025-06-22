@@ -1,0 +1,43 @@
+.join {
+  width: 70%;
+  margin-left: 12%;
+  margin-bottom: 10%;
+  display: flex;
+}
+
+.jointext {
+  margin-top: 10%;
+}
+
+.jointext h1 {
+  font-size: 35px;
+  color: #142132;
+}
+
+.joinimg img {
+  width: 70%;
+}
+
+.btn {
+  display: flex;
+  gap: 15px;
+  margin-top: 5%;
+}
+
+.btn p {
+  border: 1px solid rgb(196, 196, 196);
+  padding: 8px;
+  font-size: small;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.btn p:hover {
+  margin-top: -1%;
+  transition: 0.35s ease;
+  border: 1px solid rgb(44, 44, 44);
+}
+

@@ -1,0 +1,7 @@
+.securitycontainer{
+    display: flex;
+    justify-content:center;
+    align-items: column;
+    background-color: #f2f8f8;
+
+}
